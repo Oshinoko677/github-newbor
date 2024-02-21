@@ -4,3 +4,5 @@ price
 effective colors
 payment options
 shopping carts
+Dark mode
+chat with the delivery person
