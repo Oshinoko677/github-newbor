@@ -1,0 +1,6 @@
+This is Shopping site
+pictures
+price
+effective colors
+payment options
+shopping carts
